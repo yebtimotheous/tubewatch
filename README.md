@@ -18,7 +18,7 @@ TubeWatch is a Python-based automation tool designed to manage and simulate YouT
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/tubewatch.git
+   git clone https://github.com/yebtimotheous/tubewatch.git
    cd tubewatch
    ```
 
@@ -57,7 +57,7 @@ TubeWatch is a Python-based automation tool designed to manage and simulate YouT
 
 ## Configuration
 
-- **Logging**: Logs are stored in `tubewatch.log`. You can adjust the logging level and format in the `setup_logging` function.
+- **Logging**: Logs are stored in `watch.log`. You can adjust the logging level and format in the `setup_logging` function.
 - **Profiles Directory**: Chrome profiles are stored in the `profiles` directory by default. You can change this by modifying the `PROFILES_DIR` constant.
 - **Timeouts and Retries**: Adjust the `TIMEOUTS` dictionary and `MAX_RETRIES` constant to control the script's resilience and waiting periods.
 
@@ -88,4 +88,4 @@ Use TubeWatch responsibly and ensure compliance with YouTube's [Terms of Service
 
 ## Support
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/yourusername/tubewatch/issues).
+For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/yebtimotheous/tubewatch/issues).
