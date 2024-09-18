@@ -1,9 +1,5 @@
 # TubeWatch v0.1.0
 
-# Author: Yeb Timotheous
-
-# Email: yebtimotheous1010@gmail.com
-
 TubeWatch is a Python-based automation tool designed to manage and simulate YouTube video playback. Leveraging Selenium WebDriver, TubeWatch can automatically play, loop, and manage multiple YouTube videos across several browser windows. This tool is particularly useful for scenarios requiring repeated video playback, such as testing, analytics, or automated viewing.
 
 ## Features
